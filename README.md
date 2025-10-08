@@ -1,2 +1,2 @@
 # SGOL
- The Game Of Life, Just worser
+ The Game Of Life, Just Worse
